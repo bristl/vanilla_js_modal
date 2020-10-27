@@ -1,0 +1,8 @@
+{
+  "name": "vanilla_js_modal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bristl/vanilla_js_modal.git",
+  "author": "a.nemirov <a.nemirov@corp.mail.ru>",
+  "license": "MIT"
+}
